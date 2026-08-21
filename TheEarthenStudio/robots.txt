@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://padmaa27-code.github.io/TheEarthenStudio/sitemap.xml

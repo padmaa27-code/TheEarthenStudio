@@ -1,0 +1,16 @@
+{
+  "name": "The Earthen Studio",
+  "short_name": "Earthen",
+  "description": "Wheel-throwing pottery studio in Bengaluru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e5dfd2",
+  "theme_color": "#e5dfd2",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
